@@ -1,3 +1,6 @@
+"AutoClose/            EasyMotion/           highlight.vim/        vim-colors-solarized/ vim-repeat/
+"Command-T/            VimClojure/           sparkup/              vim-commentary/       vim-surround/
+
 if has("autocmd")
   " Enable filetype detection
   filetype plugin indent on
