@@ -79,6 +79,3 @@ if has("gui_running")
     set guioptions-=r
     "set guifont=Inconsolata-dz:h14
 end
-
-" AutoClose  	EasyMotion		highlight.vim		vim-colors-solarized	vim-repeat
-" Command-T		VimClojure		sparkup			vim-commentary		vim-surround
